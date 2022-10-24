@@ -1,0 +1,53 @@
+/* Add your styles here */
+body{
+  background-color: rgb(203, 212, 209);
+}
+h1{
+  color: rgb(49, 49, 194);
+  text-align: center;
+}
+
+h2{
+  color: olive;
+  text-align: center;
+}
+
+p{
+  text-align: justify;
+}
+
+ol{
+  text-align: left;
+}
+
+form{
+  text-align: center;
+}
+
+.formatoNegrilla{
+  font-weight: bold;
+}
+
+#Nombre{
+  background-color: rgb(245, 240, 240);
+}
+
+#Email{
+  background-color: rgb(245, 240, 240);
+}
+
+#Cuerpo{
+  background-color: rgb(245, 240, 240);
+}
+
+a[href="https://youtu.be/Jhe4UOXIQjQ"]{
+  color:d
+  }
+.portada{
+  width: 400px;
+  float:left
+}
+.portada2{
+  width: 300px;
+  float:right
+}
